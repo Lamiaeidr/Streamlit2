@@ -6,7 +6,8 @@ An application used to predict the food delivery time according to the Delivery 
 
 ## Demo App
 
-[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appappdelivery-nl9jzkxo4zurfnuqttpsbv.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appappdelivery-nl9jzkxo4zurfnuqttpsbv.streamlit.app/)
+
 
 ## GitHub Repository
 
